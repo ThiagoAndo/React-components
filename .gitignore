@@ -7,7 +7,7 @@ manifest.json
 
 *.ico
 
-public/
+public_my
 
 node_modules/
 
