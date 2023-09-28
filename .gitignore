@@ -1,5 +1,14 @@
-node_modules
+
 *.png
+
 manifest.json
+
 *.txt
+
 *.ico
+
+public/
+
+node_modules/
+
+src/
